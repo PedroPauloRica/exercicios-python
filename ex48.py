@@ -23,4 +23,4 @@ elif codigo == 4:
     print(f"Valor a pagar: R$ {total:.2f}")
     print(f"3 parcelas de aproximadamente R$ {total / 3:.2f}")
 else:
-    print("Condição de pagamento inválida.")
+    print("Condição de pagamento inválida")
