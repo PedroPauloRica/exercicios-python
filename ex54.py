@@ -9,4 +9,4 @@ while True:
     if numero == 50:
         quantidade_50 += 1
 
-print(f"O número 50 foi informado {quantidade_50} vez(es).")
+print(f"O número 50 foi informado {quantidade_50} vezes")

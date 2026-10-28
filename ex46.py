@@ -7,5 +7,5 @@ print(f"Sexo: {sexo}")
 print(f"Estado civil: {estado_civil}")
 
 if sexo == "F" and estado_civil == "CASADA":
-    tempo_casada = int(input("Há quantos anos você é casada? "))
-    print(f"Tempo de casada: {tempo_casada} ano(s)")
+    tempo_casada = int(input("quantos anos você é casada? "))
+    print(f"Tempo de casada: {tempo_casada} anos")
